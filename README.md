@@ -1,4 +1,4 @@
-# mini-img
+#MINI-IMG
 https://github.com/minimecanic/minimecanic.github.io/raw/master/MINIMECANIC-111417-0336-3109.png
 
 
