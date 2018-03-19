@@ -1,3 +1,9 @@
+![logo MINIMECANIC](https://github.com/minimecanic/minimecanic.github.io/blob/master/MINIMECANIC-111417-0336-3109.png)
+
+
+
+https://github.com/minimecanic/minimecanic.github.io/blob/master/MINIMECANIC-111417-0336-3109.png
+
 #MINI-IMG
 
 https://github.com/minimecanic/minimecanic.github.io/raw/master/MINIMECANIC-111417-0336-3109.png
